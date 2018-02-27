@@ -1,0 +1,26 @@
+body{
+	padding: 5%;
+	padding-left: 35%;
+	background: rgb(13, 63, 179);
+	margin: 0%;
+}
+div {
+width: 50%;
+background: rgb(6, 37, 109);
+border-radius: 10%;
+}
+img{
+width: 6em;
+border-radius: 10%;
+}
+h1{
+margin:5%;
+color: rgb(255, 116, 0);
+}
+h2{
+margin:5%;	
+color: rgb(255, 158, 78);
+}
+a{
+margin:35%;
+}
